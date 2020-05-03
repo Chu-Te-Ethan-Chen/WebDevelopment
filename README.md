@@ -7,5 +7,5 @@ Forms
 https://jordon-chen.github.io/WebDevelopment/HTML_Forms.html  
 Selectors  
 https://jordon-chen.github.io/WebDevelopment/HTML_selectors.html  
-Border
+Border. 
 https://jordon-chen.github.io/WebDevelopment/HTML_border_TicTacToe.html  
