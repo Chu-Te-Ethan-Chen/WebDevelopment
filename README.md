@@ -11,3 +11,5 @@ Border
 https://jordon-chen.github.io/WebDevelopment/HTML_border_TicTacToe.html  
 Photogrid  
 https://jordon-chen.github.io/WebDevelopment/HTML_photogrid.html  
+Blog  
+https://jordon-chen.github.io/WebDevelopment/HTML_blog.html   
