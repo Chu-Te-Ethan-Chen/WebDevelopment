@@ -13,3 +13,5 @@ Photogrid
 https://jordon-chen.github.io/WebDevelopment/HTML_photogrid.html  
 Blog  
 https://jordon-chen.github.io/WebDevelopment/HTML_blog.html   
+ImageGallery  
+https://jordon-chen.github.io/WebDevelopment/HTML_imageGallery.html  
