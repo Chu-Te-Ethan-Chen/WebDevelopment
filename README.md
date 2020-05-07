@@ -15,3 +15,5 @@ Blog
 https://jordon-chen.github.io/WebDevelopment/HTML_blog.html   
 ImageGallery  
 https://jordon-chen.github.io/WebDevelopment/HTML_imageGallery.html  
+LandingPage  
+https://jordon-chen.github.io/WebDevelopment/HTML_index.html  
