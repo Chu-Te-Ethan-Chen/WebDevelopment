@@ -17,3 +17,5 @@ ImageGallery
 https://jordon-chen.github.io/WebDevelopment/HTML_imageGallery.html  
 LandingPage  
 https://jordon-chen.github.io/WebDevelopment/HTML_index.html  
+Pattern  
+https://jordon-chen.github.io/WebDevelopment/Pattern_project/index.html  
