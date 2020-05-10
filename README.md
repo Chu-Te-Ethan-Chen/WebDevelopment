@@ -20,4 +20,4 @@ https://jordon-chen.github.io/WebDevelopment/HTML_index.html
 Pattern  
 https://jordon-chen.github.io/WebDevelopment/Pattern_project/index.html  
 MothersDay  
-https://jordon-chen.github.io/WebDevelopment/MothersDay/
+https://jordon-chen.github.io/WebDevelopment/MothersDay/index.html
