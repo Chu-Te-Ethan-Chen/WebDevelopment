@@ -1,0 +1,38 @@
+body {
+	border: 20px solid #ffb8c6;
+	padding: 20px;
+	max-width: 900px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+	text-align: center;
+}
+
+.fa-heart {
+	color: red;
+}
+
+.date {
+	color: #ff6781;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+.post {
+	margin-bottom: 20px;
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 2.0rem;
+	text-align: center;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
