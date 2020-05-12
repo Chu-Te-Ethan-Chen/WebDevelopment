@@ -21,3 +21,5 @@ Pattern
 https://jordon-chen.github.io/WebDevelopment/Pattern_project/index.html  
 MothersDay  
 https://jordon-chen.github.io/WebDevelopment/MothersDay/mom.html
+MuseumOfCandy  
+https://jordon-chen.github.io/WebDevelopment/MuseumOfCandy/index.html  
