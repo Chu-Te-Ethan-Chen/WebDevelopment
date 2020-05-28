@@ -29,5 +29,7 @@ https://jordon-chen.github.io/WebDevelopment/MuseumOfCandy/index.html
 Javascript  
 ------------------------------------------------------------  
 Control Flow  
-  GuessingGame  
-  https://jordon-chen.github.io/WebDevelopment/js/ControlFlow/GuessingGame/game.html  
+GuessingGame  
+https://jordon-chen.github.io/WebDevelopment/js/ControlFlow/GuessingGame/game.html  
+While Loops  
+https://jordon-chen.github.io/WebDevelopment/js/ControlFlow/WhileLoops/whileLoops.html  
